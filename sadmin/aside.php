@@ -29,7 +29,7 @@
         <div class="d-flex align-items-center justify-content-center gap-3 m-3 px-5">
             <img src="../assets/NU_shield.svg" alt="Image" class="img-fluid"
                 style="max-height: auto; max-width: 3.5rem;">
-            <h4 class="fw-bold text-light text-center d-none d-lg-block">QUEUING SYSTEM</h4>
+            <h4 class="fw-bold text-light text-center d-none d-lg-block">Queueing System</h4>
         </div>
 
         <!-- DASHBOARD -->

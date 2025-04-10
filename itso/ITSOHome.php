@@ -283,7 +283,7 @@ if (isset($_POST['action']) && $_POST['action'] === 'post_combined_data') {
         <img src="assets/nu logo.webp" alt="Image" class="" style="max-height: auto; max-width: 10%; padding: 1%;">
         <div class="mt-4">
             <h1 class="fw-bolder text-light text-center">NU LAGUNA</h1>
-            <h4 class="fw-bold text-light text-center">QUEUING SYSTEM</h4>
+            <h4 class="fw-bold text-light text-center">Queueing System</h4>
         </div>
         
         <!-- Display the full name in the header -->

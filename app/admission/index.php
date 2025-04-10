@@ -49,7 +49,7 @@ $programChairsSCS = $conn->query($sql)->fetch_all(MYSQLI_ASSOC);
         </div>
         <div>
           <h1 class=""><strong>NU LAGUNA</strong></h1>
-          <h4>QUEUING SYSTEM</h4>
+          <h4>Queueing System</h4>
         </div>
 
       </div>

@@ -30,7 +30,7 @@ if ($conn->connect_error) {
       <div class="top-bar">
         <div class="logo-container">
           <img class="logo" src="img/NU_shield.svg" alt="NU Logo" width="40" height="40">
-          <span> NU LAGUNA<br>QUEUING SYSTEM</span>
+          <span> NU LAGUNA<br>Queueing System</span>
         </div>
         <div class="profile-icon" onclick="toggleProfileInfo()">
           <img src="img/profile.png" alt="Profile Icon" width="40" height="40">

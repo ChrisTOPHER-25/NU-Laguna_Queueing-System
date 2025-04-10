@@ -31,7 +31,7 @@ font-weight: bold; /* Make the text bold */
 
 /* Adjust the font size of the second span */
 .text span:nth-child(2) {
-    font-size: 15px; /* Smaller font size for "Queuing System" */
+    font-size: 15px; /* Smaller font size for "Queueing System" */
 }
 
 .profile-icon {

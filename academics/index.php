@@ -62,7 +62,7 @@ if (isset($_SESSION["full_name"]) && isset($_SESSION["username"]) && isset($_SES
         <!-- <div class="availability-icon" id="availability-icon"></div> -->
         <div>
           <h1>NU LAGUNA</h1>
-          <p>QUEUING SYSTEM</p>
+          <p>Queueing System</p>
         </div>
       </div>
 

@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>NU Laguna Queuing System</title>
+        <title>NU Laguna Queueing System</title>
         <link rel="stylesheet" type="text/css" href="style.css">
         <style>
         .notification-box {
@@ -35,7 +35,7 @@
     <div class="sidebar">
         <div class="logo">
             <img src="img/nu_shield.svg" alt="School Logo">
-            <h1>NU Laguna Queuing System</h1>
+            <h1>NU Laguna Queueing System</h1>
         </div>
     </div>
 
