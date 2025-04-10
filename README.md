@@ -9,5 +9,5 @@ Setup:
 <li>5. Open the Browser"</li>
 <li>6. Write localhost/phpmyadmin"</li>
 <li>7. Insert the Database"</li>
-<li>8. Write localhost/nucatalogue to Run the System"</li>
+<li>8. Write localhost/NUL-QUEUE to Run the System"</li>
 </ul>
