@@ -1,3 +1,5 @@
+# NU LAGUNA: QUEUEING SYSTEM
+
 <p align="center"><a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="400" alt="PHP Logo"></a></p>
 
 Setup: 
